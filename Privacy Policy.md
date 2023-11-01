@@ -1,7 +1,7 @@
 <h1 align="center">Privacy Policy</strong></h1>
-<h3 align="center">Last Updated:<strong> October 21, 2023</strong></h3>
+<h3 align="center">Last Updated:<strong> November 1, 2023</strong></h3>
 <h2>Introduction</h2>
-<p>This privacy policy (&ldquo;<strong>Policy</strong>&rdquo;) describes how <strong>Aetherflux Calculator built by Michael Langin Switzerland, Gebenstorf</strong> (&ldquo;<strong>Company,</strong>&rdquo; &ldquo;<strong>we,</strong>&rdquo; and &ldquo;<strong>our</strong>&rdquo;) processes, collects, uses and shares personal data when using this App  (the &ldquo;<strong>Aetherflux Calculator</strong>&rdquo;). Please read the following information carefully to understand our practices regarding your personal data and how we will process data.</p>
+<p>This privacy policy (&ldquo;<strong>Policy</strong>&rdquo;) describes how <strong>Aetherflux Calculator built by Michael Lang in Switzerland, Gebenstorf</strong> (&ldquo;<strong>Company,</strong>&rdquo; &ldquo;<strong>we,</strong>&rdquo; and &ldquo;<strong>our</strong>&rdquo;) processes, collects, uses and shares personal data when using this App  (the &ldquo;<strong>Aetherflux Calculator</strong>&rdquo;). Please read the following information carefully to understand our practices regarding your personal data and how we will process data.</p>
 
 <h2>Purposes of Processing</h2>
 
